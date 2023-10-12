@@ -1,5 +1,5 @@
-<h1>👋 Hi, I’m @AkaGitsuneV2</h1>
-<h2>👀 I am interested in gaining new knowledge, because knowledge is the greatest power</h2>
+<h1>Hi, I’m @AkaGitsuneV2</h1>
+<h2> I am interested in gaining new knowledge, because knowledge is the greatest power</h2>
 <p>
   Nature does not know such a concept - philosophy.
   Philosophy is usually called the pitiful and ridiculous attempts made by people to understand Nature. 
